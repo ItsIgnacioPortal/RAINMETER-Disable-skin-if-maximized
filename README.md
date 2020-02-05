@@ -1,5 +1,5 @@
 # RAINMETER-Disable-skin-if-maximized
-A skin that will automatically disable the "VisBubble" "BarExtrude.ini" skin when it detects that Firefox is maximized.
+A skin that will automatically disable the "VisBubble -> BarExtrude.ini" skin when it detects that Firefox is maximized.
 This was heavily inspired by jsmorley's post (https://forum.rainmeter.net/viewtopic.php?t=21785)
 
 This detects that firefox is running, by searching for a REGULAR EXPRESSION on the title of programs. For some reason, firefox always has "firefox" in it's title, even when it's not visible.
